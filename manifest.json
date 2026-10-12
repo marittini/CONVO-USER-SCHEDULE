@@ -1,0 +1,16 @@
+{
+  "kind": "marinara.personal-extension",
+  "version": 1,
+  "config": {
+    "name": "User Schedule Companion",
+    "version": "2.3.0",
+    "description": "유저 당일 전체 일정을 모델 컨텍스트에 전달, 현재 상태·활동 및 종료 시각 오버라이드 지원",
+    "runtime": "client",
+    "enabled": false,
+    "capabilities": [
+      "full_page_access"
+    ],
+    "cssPath": "extension.css",
+    "jsPath": "extension.js"
+  }
+}
